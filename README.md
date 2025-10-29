@@ -101,4 +101,4 @@ It showcases your ability to **connect, analyze, visualize, and derive insights*
 ## ✨ Author
 Dhanujasri Sagadevan 
 _Data Analyst Portfolio Project_  
-🔗 [LinkedIn](#) | [GitHub](#) | [Portfolio](#)
+🔗 [LinkedIn](https://www.linkedin.com/in/dhanujasri/) | [GitHub](https://github.com/Sri-1801/).
